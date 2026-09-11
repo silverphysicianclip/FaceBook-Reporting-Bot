@@ -56,10 +56,13 @@ Can a Reporting Bot Guarantee an Account Ban? ❌
 <p>
 legitimate reporting tool can guarantee that a Facebook account, page, or post will be removed. Submitting multiple reports does not automatically establish that a violation occurred, and Facebook ultimately determines whether enforcement action is appropriate.
 </p>
+  <p>
 How Can I Get the Tool or Submit a Report? 📩
-<p>
+  <p>
 • Join our Telegram channel: https://t.me/masrepfb
+  <p>
 • Review the available information and demonstrations.
+      <p>
 • Contact us through the Telegram username provided with the relevant service.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
