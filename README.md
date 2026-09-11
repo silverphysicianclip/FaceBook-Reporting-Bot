@@ -40,7 +40,7 @@ Review / Decision
 Status Tracking
 </pre>
 <p>
-The important distinction is that an automation tool can assist with submitting a report, but it cannot legitimately guarantee that an account will be removed. The final decision belongs to Facebook and depends on its policies, evidence, and moderation systems.
+The important distinction is that an automation tool can assist with submitting a report, but it legitimately guarantee that an account will be removed. The final decision belongs to Facebook and depends on its policies, evidence, and moderation systems.
 </p>
 What Can the Tool Be Used For? 🔎
 <p>
@@ -54,7 +54,7 @@ Depending on the implementation, a reporting assistant may help users organize r
 • Other legitimate policy violations
 Can a Reporting Bot Guarantee an Account Ban? ❌
 <p>
-No legitimate reporting tool can guarantee that a Facebook account, page, or post will be removed. Submitting multiple reports does not automatically establish that a violation occurred, and Facebook ultimately determines whether enforcement action is appropriate.
+legitimate reporting tool can guarantee that a Facebook account, page, or post will be removed. Submitting multiple reports does not automatically establish that a violation occurred, and Facebook ultimately determines whether enforcement action is appropriate.
 </p>
 How Can I Get the Tool or Submit a Report? 📩
 <p>
